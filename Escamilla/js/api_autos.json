@@ -1,0 +1,74 @@
+[
+    {
+      "precio": "",
+      "id": 1,
+      "title": "Cheyenne",
+      "thumbnailUrl": "https://tareasjose.000webhostapp.com/img/1.jpg"
+    },
+    {
+      "precio": "",
+      "id": 2,
+      "title": "Silverado",
+      "thumbnailUrl": "https://tareasjose.000webhostapp.com/img/2.jpg"
+    },
+    {
+      "precio": "",
+      "id": 3,
+      "title": "Silverado HD",
+      "thumbnailUrl": "https://tareasjose.000webhostapp.com/img/3.jpg"
+    },
+    {
+      "precio": "",
+      "id": 4,
+      "title": "Suburban",
+      "thumbnailUrl": "https://tareasjose.000webhostapp.com/img/4.jpg"
+    },
+    {
+      "precio": "",
+      "id": 5,
+      "title": "Tahoe",
+      "thumbnailUrl": "https://tareasjose.000webhostapp.com/img/5.jpg"
+    },
+    {
+      "precio": "",
+      "id": 6,
+      "title": "Raptor",
+      "thumbnailUrl": "https://tareasjose.000webhostapp.com/img/6.jpg"
+    },
+    {
+        "precio": "",
+        "id": 7,
+        "title": "Ford f250",
+        "thumbnailUrl": "https://tareasjose.000webhostapp.com/img/7.jpg"
+      },
+      {
+        "precio": "",
+        "id": 8,
+        "title": "Titan",
+        "thumbnailUrl": "https://tareasjose.000webhostapp.com/img/8.jpg"
+      },
+      {
+        "precio": "",
+        "id": 9,
+        "title": "Ram TRX",
+        "thumbnailUrl": "https://tareasjose.000webhostapp.com/img/9.jpg"
+      }, 
+      {
+        "precio": "",
+        "id": 10,
+        "title": "Tahoe",
+        "thumbnailUrl": "https://tareasjose.000webhostapp.com/img/10.jpg"
+      },
+      {
+        "precio": "",
+        "id": 11,
+        "title": "Tacoma",
+        "thumbnailUrl": "https://tareasjose.000webhostapp.com/img/11.jpg"
+      },
+      {
+        "precio": "",
+        "id": 12,
+        "title": "Tundra",
+        "thumbnailUrl": "https://tareasjose.000webhostapp.com/img/12.jpg"
+      }   
+  ]
